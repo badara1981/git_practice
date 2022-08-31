@@ -5,7 +5,7 @@ print(min(list))
 print(max(list))
 
 myList = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-shuffle(myList)
+(myList)
 
 #
 print("Today is  my Birthday party")
